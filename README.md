@@ -1,7 +1,7 @@
 ### Hi there, I'm Zhi Wei 👋
-* 🎓 I'm a fresh graduate in Information Systems from Singapore Management University (SMU)
-* 💻 I enjoy programming and am always eager to learn new technologies
-* 🤖 My passion lies in software development, artificial intelligence, and data analysis
+* I'm a fresh graduate in Information Systems from Singapore Management University (SMU) 🎓
+* I enjoy programming and am always eager to learn new technologies 💻 
+* My passion lies in software development, artificial intelligence, and data analysis 🤖 
 
 #### 📬 Get in Touch
 * 🌐 LinkedIn: [@Zhi Wei Lim](https://www.linkedin.com/in/zhiweilim/)
