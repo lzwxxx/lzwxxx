@@ -1,4 +1,4 @@
-### Hi there, I'm Zhi Wei 👋
+### Hello, I'm Zhi Wei 👋
 * I'm a fresh graduate in Information Systems from Singapore Management University (SMU) 🎓
 * I enjoy programming and am always eager to learn new technologies 💻 
 * My passion lies in software development, artificial intelligence, and data analysis 🤖 
@@ -16,6 +16,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&color=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&color=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&color=black)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white&color=black)
 
 #### 🛠️ Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&color=black)
